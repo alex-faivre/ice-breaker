@@ -2,3 +2,7 @@
 01_rekognition/.serverless/cloudformation-template-update-stack.json
 01_rekognition/.serverless/ippon-rekognition-workshop.zip
 01_rekognition/.serverless/serverless-state.json
+02_textract/.serverless/cloudformation-template-create-stack.json
+02_textract/.serverless/cloudformation-template-update-stack.json
+02_textract/.serverless/ipi-rekognition-workshop.zip
+02_textract/.serverless/serverless-state.json
